@@ -1,5 +1,5 @@
-on: push
-name: Slack Notification Demo
+on: issues
+name: Flits Uptime
 jobs:
   slackNotification:
     name: Slack Notification
